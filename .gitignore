@@ -9,3 +9,11 @@
 # dependencies directus
 /role/fullstack/senior/Gabriel-P-Guarachi/airport-directus/node_modules
 /role/fullstack/senior/Gabriel-P-Guarachi/airport-directus/package-lock.json
+
+# dependencies airportart-api
+/role/fullstack/senior/Gabriel-P-Guarachi/airportart-api/node_modules
+/role/fullstack/senior/Gabriel-P-Guarachi/airportart-api/package-lock.json
+
+# dependencies airportart-web
+/role/fullstack/senior/Gabriel-P-Guarachi/airportart-web/node_modules
+/role/fullstack/senior/Gabriel-P-Guarachi/airportart-web/package-lock.json
